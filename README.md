@@ -7,4 +7,4 @@ Checkout [IIOW Editor](https://github.com/WilsontheWolf/iiow-editor) a elecron a
 ![Wolf](https://github.com/WilsontheWolf/WilsontheWolf/blob/master/Wolf.gif)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WilsontheWolf&show_icons=true&theme=radical&count_private=true)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsontheWolf&&show_icons=true&theme=radical&count_private=true&layout=compact&hide=php)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsontheWolf&&show_icons=true&theme=radical&count_private=true&layout=compact)
