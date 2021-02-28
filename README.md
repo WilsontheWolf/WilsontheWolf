@@ -12,3 +12,5 @@ Also feel free to checkout [IIOW Editor](https://github.com/WilsontheWolf/iiow-e
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WilsontheWolf&show_icons=true&theme=radical&count_private=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsontheWolf&&show_icons=true&theme=radical&count_private=true&layout=compact)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WilsontheWolf&theme=radical)
