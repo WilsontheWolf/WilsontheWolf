@@ -22,7 +22,7 @@ Also checkout these things I made:
 
 And show some love to these great projects:
 
-[![Chicken bot](https://github-readme-stats.vercel.app/api/pin/?username=Chicken&repo=ChickenBot&show_owner=true&theme=radical)](https://github.com/Chicken/ChickenBot)[![ALVR](https://github-readme-stats.vercel.app/api/pin/?username=ALVR-org&repo=ALVR&show_owner=true&theme=radical)](https://github.com/ALVR-org/ALVR)[![Josh](https://github-readme-stats.vercel.app/api/pin/?username=eslachance&repo=josh&show_owner=true&theme=radical)](https://github.com/eslachance/josh)[![guidebot](https://github-readme-stats.vercel.app/api/pin/?username=Znudzony&repo=quick-ms&show_owner=true&theme=radical)](https://github.com/Znudzony/quick-ms)
+[![Chicken bot](https://github-readme-stats.vercel.app/api/pin/?username=Chicken&repo=ChickenBot&show_owner=true&theme=radical)](https://github.com/Chicken/ChickenBot)[![ALVR](https://github-readme-stats.vercel.app/api/pin/?username=ALVR-org&repo=ALVR&show_owner=true&theme=radical)](https://github.com/ALVR-org/ALVR)[![Josh](https://github-readme-stats.vercel.app/api/pin/?username=eslachance&repo=josh&show_owner=true&theme=radical)](https://github.com/eslachance/josh)[![guidebot](https://github-readme-stats.vercel.app/api/pin/?username=Skyra-Project&repo=Skyra&show_owner=true&theme=radical)](https://github.com/Skyra-Project/Skyra)
 
 ![Wolf](https://github.com/WilsontheWolf/WilsontheWolf/blob/master/Wolf.gif)
 
