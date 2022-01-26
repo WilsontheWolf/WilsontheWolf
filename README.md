@@ -12,13 +12,13 @@ Checkout [Eliza](https://github.com/WilsontheWolf/Eliza) which is an iOS tweak t
 
 [![Eliza](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=Eliza&theme=radical)](https://github.com/WilsontheWolf/Eliza)
 
-Also feel free to checkout [IIOW Editor](https://github.com/WilsontheWolf/iiow-editor) a electron app that is able to view (and soon edits) saves for [IIslands of WAR](https://store.steampowered.com/app/1162470/IIslands_of_War/).
+<!--Also feel free to checkout [IIOW Editor](https://github.com/WilsontheWolf/iiow-editor) a electron app that is able to view (and soon edits) saves for [IIslands of WAR](https://store.steampowered.com/app/1162470/IIslands_of_War/).
 
-[![IIOW Editor](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=iiow-editor&theme=radical)](https://github.com/WilsontheWolf/iiow-editor)
+[![IIOW Editor](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=iiow-editor&theme=radical)](https://github.com/WilsontheWolf/iiow-editor) -->
 
 Also checkout these things I made:
 
-[![IIIslander](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=isfb&theme=radical)](https://github.com/WilsontheWolf/isfb)[![IIOW Tools](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=iiow-tools&theme=radical)](https://github.com/WilsontheWolf/iiow-tools)[![Bot Template](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=bot-template&theme=radical)](https://github.com/WilsontheWolf/bot-template)[![Xmas Clock](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=xmas-clock&theme=radical)](https://github.com/WilsontheWolf/xmas-clock)
+[![IIIslander](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=isfb&theme=radical)](https://github.com/WilsontheWolf/isfb)[![IIOW Tools](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=iiow-tools&theme=radical)](https://github.com/WilsontheWolf/iiow-tools)[![Do The Mario](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=DoTheMario&theme=radical)](https://github.com/WilsontheWolf/DoTheMario)[![IIslander](https://github-readme-stats.vercel.app/api/pin/?username=IIoW&repo=IIslander&theme=radical&show_owner=true)](https://github.com/IIoW/IIslander)
 
 And show some love to these great projects:
 
