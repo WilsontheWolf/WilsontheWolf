@@ -49,6 +49,6 @@ And show some love to these great projects:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WilsontheWolf&show_icons=true&theme=radical&count_private=true)
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsontheWolf&&show_icons=true&theme=radical&count_private=true&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsontheWolf&&show_icons=true&theme=radical&count_private=true&layout=compact&card_width=400)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WilsontheWolf&theme=radical&layout=compact)
