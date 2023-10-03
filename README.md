@@ -36,7 +36,7 @@ Also checkout these things I made:
 [![Do The Mario](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=DoTheMario&theme=radical)](https://github.com/WilsontheWolf/DoTheMario)
 [![IIIslander](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=isfb&theme=radical)](https://github.com/WilsontheWolf/isfb) <!-- Yes I wrote 2 of them  -->
 [![Halloween Candy DB](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=halloween-candy-db&theme=radical)](https://github.com/WilsontheWolf/halloween-candy-db)
-[![WebShade](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=WebShade&theme=radical)](https://github.com/IIoW/WebShade)
+[![WebShade](https://github-readme-stats.vercel.app/api/pin/?username=WilsontheWolf&repo=WebShade&theme=radical)](https://github.com/WilsontheWolf/WebShade)
 
 And show some love to these great projects:
 
